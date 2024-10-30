@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ar.edu.unju.escmi.tp6</groupId>
+  <artifactId>proyecto-tp6</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>trabajo_practico_6</name>
+  <description>desarrollo trabajo práctico N° 6</description>
+  
+  <properties>
+	<maven.compiler.target>17</maven.compiler.target>
+	<maven.compiler.source>17</maven.compiler.source>
+	<encoding>UTF-8</encoding>
+  </properties>
+  
+  <dependencies>
+	<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+	<dependency>
+	    <groupId>org.junit.jupiter</groupId>
+	    <artifactId>junit-jupiter-api</artifactId>
+	    <version>5.11.1</version>
+	    <scope>test</scope>
+	</dependency>
+
+  </dependencies>
+</project>
