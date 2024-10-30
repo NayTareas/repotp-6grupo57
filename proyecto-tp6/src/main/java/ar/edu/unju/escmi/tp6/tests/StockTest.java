@@ -1,4 +1,4 @@
-package ar.edu.unju.escmi.poo.tests;
+package ar.edu.unju.escmi.tp6.tests;
 
 import static org.junit.jupiter.api.Assertions.*;
 
